@@ -12,6 +12,12 @@ Apaixonada por tecnologia, estou sempre buscando evoluir e aprender novas ferram
         src="https://custom-icon-badges.demolab.com/github/followers/mariaclaramatos-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mariaclara-matos/">
+  <img alt="LinkedIn" 
+       title="Conecte-se comigo no LinkedIn" 
+       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 ---
 ### 🤖 Linguagens e Tecnologias
 
